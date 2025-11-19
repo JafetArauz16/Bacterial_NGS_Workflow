@@ -7,6 +7,6 @@ dependencies:
   - python=3.6
   - pip
   - pip:
-      - SeqSero2==1.3.2
+      - git+https://github.com/denglab/SeqSero2.git
       - biopython==1.73
       - numpy==1.19.5
