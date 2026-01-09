@@ -1,0 +1,11 @@
+name: annotation_env
+channels:
+  - conda-forge
+  - bioconda
+channel_priority: strict
+dependencies:
+  - python=3.9
+  - biopython=1.78
+  - prokka
+  - staramr
+  - blast
